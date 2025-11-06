@@ -7,13 +7,7 @@
 // 1. Define a variable for the page title
 $pageTitle = "My First Dynamic PHP Page";
 
-function getConnection() {
-    $server = 'l;ocalhost';
-    $user = 'cameron';
-    $password = 'M@rtyRock$';
-    $database = 'database name';
 
-}
 
 // 2. Get the current date and time using PHP's date() function
 $currentDateTime = date("l, F j, Y - h:i:s A T");
@@ -104,3 +98,4 @@ $userName = "Web Visitor";
     </div>
 </body>
 </html>
+
