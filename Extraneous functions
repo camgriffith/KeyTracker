@@ -1,0 +1,7 @@
+function getConnection() {
+    $server = 'localhost';
+    $user = your user;
+    $password = your password;
+    $database = 'database name';
+
+}
